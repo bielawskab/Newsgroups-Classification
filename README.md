@@ -1,6 +1,6 @@
 # Newsgroups-Classification
 ## Overview
-This project is dedicated to classifying newsgroups. It includes comprehensive steps from data analysis to model training and evaluation.
+This project is dedicated to classifying newsgroups using simple unidirectional multilayer neural network, logistic regression. It includes comprehensive steps from data analysis to model training and evaluation.
 
 ## Contents
 1. Data Analysis: Initial exploration and analysis of the dataset.
